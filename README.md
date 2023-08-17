@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reinforcement Learning
 - 🌱 I’m currently learning RL
 - 💞️ I’m looking to collaborate on this topic.
-- 📫 How to reach me Upwork. 
+- 📫 Reach me on Upwork. 
 
 <!---
 hasnainfarid/hasnainfarid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
